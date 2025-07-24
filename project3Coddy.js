@@ -8,3 +8,5 @@ console.log(x2)
 console.log(x3)
 let a=10+'10'-10
 console.log(a)
+let rnd=40
+console.log(`The input is: ${rnd}`)
