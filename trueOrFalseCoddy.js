@@ -5,7 +5,7 @@ const rl = readline.createInterface({
 })
 rl.question("Enter the number: ", function (number){
     number=parseInt(number)
-    if (number=1){
+    if (number===1){
         console.log("T")
     }else {
         console.log("F")
