@@ -10,4 +10,4 @@ rl.question("Enter the number: ", function (number){
     }else {
         console.log("F")
     }
-})
+}) 
