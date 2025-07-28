@@ -12,4 +12,5 @@ rl.question("Enter a number: ",function(number){
             }
         }
     }
+    rl.close()
 })
